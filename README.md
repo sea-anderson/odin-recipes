@@ -1,0 +1,1 @@
+This is a website made following instruction from The Odin Project and is a sample demonstrating basic HTML, CSS, and JavaScript.
